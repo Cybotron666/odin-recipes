@@ -1,1 +1,5 @@
-# odin-recipes
+First repository for recipes project
+For this project, I focussed on a few things that are not in my system yet:
+-Closing a list with the correct tag. Sometimes I forget to use a or and then I wonder why the layout of the webpage seems off. Then I check the code again and realize I forgot to use a closing tag. The moment I rectify that, everything falls back into place.
+-Using paths correctly. Sometimes I use the wrong reference for an image, which results in the image not being loaded, so that I need to open the image in another tab.
+-Working with repositories. I got my first website working perfectly locally, but not on Github. Which made me realize I must have done something wrong while creating the repository or commiting code. So I decided to start from scratch. I saved all the code in a text file, deleted the repository and started on the project again, but this time making absolutely sure I would not forget anything repository-related.
